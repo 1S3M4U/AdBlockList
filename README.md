@@ -1,0 +1,2 @@
+# AdBlockList
+Godbye iklan sampah
